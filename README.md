@@ -1,3 +1,10 @@
+# Instruções para roda o desafio localmente
+
+- Faça um `fork` do repositório.
+- Clone o repositório localmente. Basta copiar o caminho para o repositório, abrir o terminal do VSCode em uma pasta local de sua preferência e digitar `git clone <código-do-repositorio>`.
+- Certifique-se de ter o `node` instalado em sua máquina, assim como o `npm`.
+- Agora basta rodar o projeto no terminal, com o comando `node <nome-do-arquivo>`.
+
 # Instruções para entrega
 
 # 1️⃣ Desafio Classificador de nível de Herói
